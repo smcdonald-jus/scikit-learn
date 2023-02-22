@@ -17,7 +17,7 @@ from collections.abc import Mapping
 from functools import partial
 from numbers import Integral, Real
 from operator import itemgetter
-import re
+import regex as re
 import unicodedata
 import warnings
 
